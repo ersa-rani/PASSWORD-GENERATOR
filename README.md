@@ -11,25 +11,11 @@ This is a simple and user-friendly Password Generator built using Streamlit. It 
 ✅ Modern UI built with Streamlit
 
 📷 Screenshot:
-(Include a screenshot of the app running.)
+![Screenshot (92)](https://github.com/user-attachments/assets/0269782a-65a3-4d7c-a7f0-8b560dea89de)
 
-📌 Installation & Setup:
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the application:
-bash
-Copy
-Edit
-streamlit run app.py
+
+
+
 🔧 Technologies Used:
 Python 🐍
 Streamlit 🎨
